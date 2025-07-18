@@ -1,13 +1,23 @@
-Productivity-Tracker
-COMPANY: CODTECH IT SOLUTIONS
-NAME: Laivish Sharma
-INTERN ID: CT06DF1875
-DOMAIN: MERN STACK WEB DEVELOPMENT
-DURATION: 6 WEEKS
-MENTOR: NEELA SANTOSH
+# Productivity-Tracker
 
-A powerful Chrome Extension built with MERN Stack to help users track their productivity by monitoring the time spent on websites, auto-blocking distractions, and providing daily reports with insightful pie charts — all with seamless data syncing and a vibrant UI.
-🚀 Features
+*COMPANY *: CODTECH IT SOLUTIONS
+
+*NAME *: Laivish Sharma
+
+$INTERN ID *: CT06DF1875 
+
+$DOMAIN *: MERN STACK WEB DEVELOPMENT
+
+*DURATION *: 6 WEEEKS
+
+*MENTOR *: NEELA SANTOSH
+
+---
+
+
+##A powerful Chrome Extension built with MERN Stack to help users track their productivity by monitoring the time spent on websites, auto-blocking distractions, and providing daily reports with insightful pie charts — all with seamless data syncing and a vibrant UI.
+
+##🚀 Features
 ⏱️ Real-Time Website Tracking — Track time spent on websites in real-time
 
 🚫 Auto-Blocking of Distracting Sites — Block social media or custom sites instantly
@@ -22,7 +32,7 @@ A powerful Chrome Extension built with MERN Stack to help users track their prod
 
 🧠 Stores User Preferences — Remembers your settings and blocked sites
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 
 Extension API: Chrome Extensions API
