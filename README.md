@@ -15,8 +15,8 @@ $DOMAIN *: MERN STACK WEB DEVELOPMENT
 ---
 
 
-##A powerful Chrome Extension built with MERN Stack to help users track their productivity by monitoring the time spent on websites, auto-blocking distractions, and providing daily reports with insightful pie charts — all with seamless data syncing and a vibrant UI.
-
+## A powerful Chrome Extension built with MERN Stack to help users track their productivity by monitoring the time spent on websites, auto-blocking distractions, and providing daily reports with insightful pie charts — all with seamless data syncing and a vibrant UI.
+---
 ##🚀 Features
 ---
 ⏱️ Real-Time Website Tracking — Track time spent on websites in real-time
@@ -32,8 +32,9 @@ $DOMAIN *: MERN STACK WEB DEVELOPMENT
 🌈 Colorful & Gradient UI — Clean, vibrant and user-friendly interface
 
 🧠 Stores User Preferences — Remembers your settings and blocked sites
-
+---
 ##🛠️ Tech Stack
+---
 Frontend: HTML, CSS, JavaScript
 
 Extension API: Chrome Extensions API
@@ -46,9 +47,12 @@ Charting: Chart.js
 
 Storage: Chrome Sync Storage, MongoDB
 
+---
 🧑‍💻 Getting Started
+---
 
-1. Clone the Repository
+1. Clone the Repositor
+```bash
 git clone https://github.com/laivish98/productivity-tracker.git
 cd productivity-tracker
 
@@ -89,7 +93,10 @@ productivity-tracker/
 │   └── manifest.json
 ├── README.md
 └── package.json
-🌐 API Reference
+```
+---
+#🌐 API Reference
+---
 Chrome Extension API
 📖 https://developer.chrome.com/docs/extensions/
 
@@ -98,8 +105,10 @@ MongoDB Atlas
 
 Chart.js
 📖 https://www.chartjs.org/
+---
+#📸 Output
+---
 
-📸 Output
 Extension Popup UI
 
 
