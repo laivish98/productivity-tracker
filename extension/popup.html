@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Productivity Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="popup-container">
+    <h2>🚀 Productivity Tracker</h2>
+    
+    <input type="text" id="blockSiteInput" placeholder="Enter site to block" />
+    <button id="blockBtn">+ Block Site</button>
+
+    <button id="showBlockedBtn">🔒 View Blocked Sites</button>
+
+    <div id="blockedList" class="report-box" style="display: none;"></div>
+
+    <h3>📊 Today's Report</h3>
+    <div id="report" class="report-box">Loading...</div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
