@@ -109,13 +109,15 @@ Chart.js
 #📸 Output
 ---
 
-Extension Popup UI
+Extension Popup UI with Daily Report and Blocked Site 
 
+<img width="616" height="498" alt="Image" src="https://github.com/user-attachments/assets/114dac8e-3650-4cb9-82a8-dd2fe3958881" />
+<img width="1418" height="510" alt="Image" src="https://github.com/user-attachments/assets/6a9fbd66-0628-41e8-9b1f-dda38a08c24e" />
+<img width="1430" height="523" alt="Image" src="https://github.com/user-attachments/assets/efdd4e58-ec1e-4480-a32c-ab7b9cf806de" />
 
-Daily Report Pie Chart
+<img width="303" height="427" alt="Image" src="https://github.com/user-attachments/assets/3cd38fc1-3e7d-4fec-99a2-8433da04b759" />
+<img width="458" height="523" alt="Image" src="https://github.com/user-attachments/assets/d7265c68-3473-4f0e-bb9f-66ec589212a5" />
 
-
-Blocked Sites UI
 
 ---
 #👨‍💻 Author
