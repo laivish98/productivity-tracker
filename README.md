@@ -74,8 +74,6 @@ Select the extension/ folder inside the cloned repo
 ✅ Extension will appear in the toolbar!
 
 📁 Project Structure
-pgsql
-Copy code
 productivity-tracker/
 ├── backend/
 │   ├── controllers/
