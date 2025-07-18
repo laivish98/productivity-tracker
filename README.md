@@ -18,6 +18,7 @@ $DOMAIN *: MERN STACK WEB DEVELOPMENT
 ##A powerful Chrome Extension built with MERN Stack to help users track their productivity by monitoring the time spent on websites, auto-blocking distractions, and providing daily reports with insightful pie charts — all with seamless data syncing and a vibrant UI.
 
 ##🚀 Features
+---
 ⏱️ Real-Time Website Tracking — Track time spent on websites in real-time
 
 🚫 Auto-Blocking of Distracting Sites — Block social media or custom sites instantly
